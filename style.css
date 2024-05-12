@@ -204,6 +204,12 @@ body {
     width: 555px;
 }
 
+.third .sec-image video {
+    width: 338px;
+    right: 113px;
+    top: 37px;
+}
+
 /* frequently asked question */
 .faq {
     display: flex;
